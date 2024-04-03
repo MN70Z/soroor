@@ -47,10 +47,8 @@ const BrilworksPracticalTask = () => {
       <Info />
       <Pricing />
       <footer className="self-stretch flex flex-col items-start justify-start max-w-full text-left text-base text-solid-white font-title-header-5-bold">
-        <OurCustomers />
         <div className="self-stretch flex flex-col items-center justify-start pt-[370px] px-5 pb-[30px] box-border relative gap-[30px] max-w-full mt-[-370px] mq825:pb-5 mq825:box-border">
           <div className="w-full h-full absolute !m-[0] top-[0px] right-[0px] bottom-[0px] left-[0px] [background:linear-gradient(180deg,_rgba(57,_131,_120,_0)_2.6%,_rgba(57,_131,_120,_0.1)_96.88%)]" />
-          <FrameComponent1 />
           <Footer />
           <div className="w-[1170px] box-border flex flex-row items-start justify-center pt-[30px] px-5 pb-0 max-w-full z-[1] border-t-[1px] border-solid border-gray-400">
             <div className="relative">
